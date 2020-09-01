@@ -73,7 +73,7 @@ h1, h2 {
 
 
 .hero .content {
-    color: var(--couleur-blanc);
+    background: var(--couleur-degrade-princ);
 
     width: 100%;
     height: 100%;
