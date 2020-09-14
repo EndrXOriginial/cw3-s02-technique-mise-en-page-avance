@@ -109,7 +109,7 @@ h1, h2 {
 /* --- articles --- */
 
 .interet {
-    background: url("../images/bg-interet.jpg"), fixed;
+    background: url("../src/images/bg-interet.jpg"), fixed;
 }
 
 .interet .conteneur {
